@@ -1,7 +1,7 @@
 # #challengeWeb
 
 <p align="center">
-    Projects #challengeWeb by Juca.dev <br>
+    Projects #challengeWeb by <br>
     <br><table>
     <thead>
         <tr>
